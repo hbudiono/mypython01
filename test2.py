@@ -4,7 +4,7 @@
 
 # Double pendulum formula translated from the C code at
 # http://www.physics.usyd.edu.au/~wheat/dpend_html/solve_dpend.c
-
+# %%
 from numpy import sin, cos
 import numpy as np
 import matplotlib.pyplot as plt
@@ -91,3 +91,5 @@ ani = animation.FuncAnimation(fig, animate, np.arange(1, len(y)),
 
 # ani.save('double_pendulum.mp4', fps=15)
 plt.show()
+
+# %%
