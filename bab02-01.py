@@ -1,3 +1,4 @@
+# Control Flow
 # if statement
 
 if True :
@@ -6,10 +7,10 @@ if True :
 a = 10
 
 if  a == 5 :
-    print("Benar")
+    print("Pilihan pertama")
 elif a == 11:
-    print("Yang kedua yang benar")
+    print("Pilihan kedua")
 else:
-    print("Pilihan terakhir")
+    print("Pilihan jika tidak ada yang benar")
 
 
