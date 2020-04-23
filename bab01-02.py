@@ -14,7 +14,6 @@ d = [100,50]
 mypet.penup()
 mypet.setpos(d)
 
-
 turtle.done()
 
 

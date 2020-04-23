@@ -1,6 +1,25 @@
 #function in python
 
+
+print("======= Example 1 =======")
+
+def myproc(para01):
+    print(para01)
+    print(para01)
+
+myproc("test")
+
+print("======= Example 2 =======")
+
+def mul(a,b):
+    return a*b
+
+c=mul(10,2)
+print(c)
+
+
 #Fibonacci series
+
 
 print("===== Fibonnaci as a procedure ========")
 
