@@ -7,5 +7,6 @@ print(a)
 
 a['four']=4
 a['five']='lima'
+a['five']=5
 
 print(a)
