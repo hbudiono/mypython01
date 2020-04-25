@@ -10,9 +10,9 @@ b = 100
 c = a+b
 mypet.forward(c)
 
-d = [100,50]
-mypet.penup()
-mypet.setpos(d)
+# d = [100,50]
+# mypet.penup()
+# mypet.setpos(d)
 
 turtle.done()
 
