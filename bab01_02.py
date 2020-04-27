@@ -4,7 +4,6 @@ mypet = turtle.Turtle()
 mypet.shape('turtle')
 mypet.shapesize(3,3,3)
 
-
 a = 100
 b = 100
 c = a+b
