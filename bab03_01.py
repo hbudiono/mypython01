@@ -1,5 +1,5 @@
 #procedure and function in python
-#parameters
+#arguments (parameters)
 
 
 print("======= Example 1 =======")
