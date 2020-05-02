@@ -2,7 +2,7 @@
 
 #vscode
 #python extension
-#python binaries
+#python intepreter
 #git installation (binaries)
 #git history extension
 #git hub
